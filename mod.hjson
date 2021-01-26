@@ -1,0 +1,7 @@
+name: mod //real mod name
+displayName: Mod Template //the displayed mod name
+description: the template for mods. //mod description
+author: Sharlotte //you
+version: 1.4.7 //this mod version
+minGameVersion: 120 //suggest not to type point (like 120.0)
+hidden: false
