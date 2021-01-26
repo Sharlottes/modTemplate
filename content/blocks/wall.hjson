@@ -1,0 +1,9 @@
+type: Wall
+
+health: 350
+
+requirements: [
+  copper/6
+]
+size: 1
+category: defense
